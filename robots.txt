@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+Sitemap: https://himalayanenchanter.com/sitemap.xml
